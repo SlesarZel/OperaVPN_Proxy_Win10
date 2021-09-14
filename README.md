@@ -2,7 +2,7 @@
 Script VBS add OperaVPN (must be installed Opera Browser) through proxy-server on 127.0.0.1
 
 1. Install Opera browser
-2. Start script
+2. Start script "start_stop_opera_proxy.vbs"
 3. Click "Yes"
 4. Starting OperaVPN fror Opera browser, proxy-server on 127.0.0.1:18080 starting
 5. To stop proxy-server just close cmd window
